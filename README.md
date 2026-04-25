@@ -8,12 +8,12 @@
 (주요 아이디어 알고리즘)
 
 ## Components
--구성요소1
--구성요소2
-
+- 구성요소1
+- 구성요소2
+- [링크](https://github.com/henrykim3237-beep/msg/edit/main/README.md)
 ## Software
--언어: phthon/c/arduino
--라이브러리:...
+- 언어: phthon/c/arduino
+- 라이브러리:...
 
 ## Archives
 - (성취 실패 모두 기록)
